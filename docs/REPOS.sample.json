@@ -1,0 +1,123 @@
+{
+  "schema_version": "RR-REPOS-1.0",
+  "generated_at": "2026-02-19T00:00:00Z",
+  "repos": [
+    {
+      "repo_name": "pFDO-Specification",
+      "repo_url": "https://github.com/joy7758/pFDO-Specification",
+      "positioning_cn": "园区数字合规与物理层 FDO 参考实现",
+      "positioning_en": "Park digital compliance and physical-layer FDO reference implementation",
+      "standards_entry": "https://github.com/joy7758/pFDO-Specification/blob/main/docs/paper/digital_metabolism_entropy_control.md",
+      "demo_entry": "/park ; /docs-cn ; https://github.com/joy7758/pFDO-Specification/blob/main/scripts/run_park.sh",
+      "standard_ids": [
+        "NSE-EC-1.0"
+      ],
+      "tags": [
+        "compliance",
+        "dashboard",
+        "fdo"
+      ]
+    },
+    {
+      "repo_name": "AASP-Core",
+      "repo_url": "https://github.com/joy7758/AASP-Core",
+      "positioning_cn": "自适应代理主权协议核心仓库",
+      "positioning_en": "Core repository of the Adaptive Agent Sovereignty Protocol",
+      "standards_entry": "https://github.com/joy7758/AASP-Core/blob/main/README.md",
+      "demo_entry": "README-driven protocol repository",
+      "standard_ids": [
+        "AASP-3.0"
+      ],
+      "tags": [
+        "protocol",
+        "ai-governance"
+      ]
+    },
+    {
+      "repo_name": "ISAS-Core",
+      "repo_url": "https://github.com/joy7758/ISAS-Core",
+      "positioning_cn": "工业主权自治标准与 eFDO 实现",
+      "positioning_en": "Industrial sovereign autonomy standard and eFDO implementation",
+      "standards_entry": "https://github.com/joy7758/ISAS-Core/blob/main/README.md",
+      "demo_entry": "project bootstrap scripts in repository",
+      "standard_ids": [
+        "EIS-2026"
+      ],
+      "tags": [
+        "industrial",
+        "efdo"
+      ]
+    },
+    {
+      "repo_name": "DOIP-Segments-Specification",
+      "repo_url": "https://github.com/joy7758/DOIP-Segments-Specification",
+      "positioning_cn": "DOIP 分段与扩展操作规范库",
+      "positioning_en": "DOIP segment and extended operation specification repository",
+      "standards_entry": "https://github.com/joy7758/DOIP-Segments-Specification/blob/main/README.md",
+      "demo_entry": "schema-first specification repository",
+      "standard_ids": [
+        "DOIP-SEG-2.0"
+      ],
+      "tags": [
+        "doip",
+        "schema"
+      ]
+    },
+    {
+      "repo_name": "MCP-Legal-China",
+      "repo_url": "https://github.com/joy7758/MCP-Legal-China",
+      "positioning_cn": "中国法律增强 MCP 插件仓库",
+      "positioning_en": "China legal enhancement MCP plugin repository",
+      "standards_entry": "https://github.com/joy7758/MCP-Legal-China/blob/main/README.md",
+      "demo_entry": "plugin and integration entry in repository docs",
+      "standard_ids": [],
+      "tags": [
+        "legal-tech",
+        "mcp"
+      ]
+    },
+    {
+      "repo_name": "Kinetic-Robotics-FDO-Sovereignty",
+      "repo_url": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty",
+      "positioning_cn": "机器人动作主权与 K-FDO 规范",
+      "positioning_en": "Robotics action sovereignty and K-FDO specification",
+      "standards_entry": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty/blob/main/docs/K-FDO-Sovereignty-Spec.md",
+      "demo_entry": "specification-driven implementation",
+      "standard_ids": [
+        "K-FDO-1.0"
+      ],
+      "tags": [
+        "robotics",
+        "kinetic"
+      ]
+    },
+    {
+      "repo_name": "China-Precision-Mold-FDO-Standard",
+      "repo_url": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard",
+      "positioning_cn": "精密模具 FDO 标准仓库",
+      "positioning_en": "Precision mold FDO standard repository",
+      "standards_entry": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard/blob/main/README.md",
+      "demo_entry": "implementation and deployment entry in repository docs",
+      "standard_ids": [
+        "CPM-FDO-1.0"
+      ],
+      "tags": [
+        "manufacturing",
+        "assetization"
+      ]
+    },
+    {
+      "repo_name": "RedRock-Constitution",
+      "repo_url": "https://github.com/joy7758/RedRock-Constitution",
+      "positioning_cn": "标准家族总宪章与治理总入口",
+      "positioning_en": "Constitutional hub and governance root for the standards family",
+      "standards_entry": "https://github.com/joy7758/RedRock-Constitution/blob/main/GOVERNANCE.md",
+      "demo_entry": "https://github.com/joy7758/RedRock-Constitution/blob/main/README.md",
+      "standard_ids": [],
+      "tags": [
+        "hub",
+        "governance"
+      ]
+    }
+  ]
+}

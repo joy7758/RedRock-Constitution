@@ -29,3 +29,4 @@ This repository is the hub of the RedRock system: registry + navigation. All pub
 - Standards Registry / 标准注册表：`docs/registry/STANDARDS_REGISTRY.md`
 - Roadmap / 路线图：`docs/roadmap/ROADMAP_CN_EN.md`
 - Governance / 治理公约：`GOVERNANCE.md`
+- RR-CORE-1.0 / 宪章核心标准：`docs/standards/RR-CORE-1.0.md`

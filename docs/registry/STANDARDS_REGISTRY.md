@@ -17,3 +17,5 @@ Updated: 2026-02-19T12:12:18
 | `RR-CPM` | Precision Mold FDO Standard<br/>模具/制造业FDO示范 / Manufacturing FDO Demo | Draft | https://github.com/joy7758/RedRock-Constitution/tree/main/docs/standards | https://github.com/joy7758/China-Precision-Mold-FDO-Standard | https://github.com/joy7758/China-Precision-Mold-FDO-Standard |
 | `RR-KRFS` | Kinetic Robotics FDO Sovereignty<br/>机器人与运动主权 / Robotics & Kinetic Sovereignty | Draft | https://github.com/joy7758/RedRock-Constitution/tree/main/docs/standards | https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty | https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty |
 | `RR-MCP-LC` | MCP Legal China<br/>中国法律映射与合规模型 / Legal Mapping (China) | Draft | https://github.com/joy7758/RedRock-Constitution/tree/main/docs/standards | https://github.com/joy7758/MCP-Legal-China | https://github.com/joy7758/MCP-Legal-China |
+
+| `RR-CORE` | Constitution / 宪章 | Draft | https://github.com/joy7758/RedRock-Constitution/tree/main/docs/standards | https://github.com/joy7758/RedRock-Constitution | https://github.com/joy7758/RedRock-Constitution |

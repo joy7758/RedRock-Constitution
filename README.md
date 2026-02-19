@@ -22,3 +22,9 @@ This repository is the hub of the RedRock system: registry + navigation. All pub
 
 ## Roadmap / 路线图
 - See: `docs/roadmap/ROADMAP_CN_EN.md`
+
+## Quick Links / 快速入口
+- Standards Registry / 标准注册表：`docs/registry/STANDARDS_REGISTRY.md`
+- Repos Index / 仓库总导航：`docs/registry/REPOS_INDEX_CN_EN.md`
+- Roadmap / 路线图：`docs/roadmap/ROADMAP_CN_EN.md`
+- Governance / 治理公约：`GOVERNANCE.md`

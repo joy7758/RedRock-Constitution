@@ -1,4 +1,6 @@
-# Standards Registry / 标准注册表（CN/EN）
+# Standards Registry / 标准注册表
+
+See also: `docs/registry/REPOS_INDEX_CN_EN.md`（CN/EN）
 
 > Status: Draft / Release / Experimental  
 > 状态：草案 / 发布 / 实验

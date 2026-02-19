@@ -1,45 +1,51 @@
-# RedRock Bilingual Governance Protocol
+# RedRock Constitution Governance Policy
 
-## 中文版
+## 1. Bilingual Mandate / 双语强制规则
 
-### 双语发布原则
-- 本仓库所有标准与规范性文档必须以中文与英文同步发布。
-- 中文与英文版本必须在同一发布周期内完成，不得仅发布单语版本。
+### 中文
+- 所有标准、规范、技术备忘录必须采用中文与英文双语发布。
+- 英文必须为完整翻译版本，不得以摘要、提纲或片段替代。
+- CN/EN 两个版本必须在同一发布窗口内同步生效。
 
-### 标准命名规则
-- 标准名称必须中英文并列展示。
-- 推荐格式：`标准编号 (English Standard Name)`。
+### English
+- All standards, specifications, and technical memos shall be published in both Chinese and English.
+- English content must be a full translation and cannot be replaced by summary, outline, or partial fragments.
+- CN/EN versions must become effective within the same release window.
 
-### 文档镜像规则
-- `docs/standards/` 与 `docs/paper/` 下的标准类文档必须采用 CN/EN 全量镜像。
-- 建议格式为上半中文、分隔线 `---`、下半英文。
+## 2. Standard Identifier Rule / 标准编号规则
 
-### 禁止项
-- 禁止仅中文标准发布。
-- 禁止以英文摘要替代英文全文。
+### 中文
+- 统一编号格式：`RR-<DOMAIN>-<NAME>-<MAJOR>.<MINOR>`。
+- `DOMAIN` 表示标准域（如 NSE、AASP、DOIP、ISAS）。
+- 每个编号在标准注册表中必须唯一，且不得复用。
 
-### 翻译要求
-- 英文部分必须为完整翻译版本，不得删减技术定义、接口字段、流程步骤或结论。
+### English
+- Unified identifier format: `RR-<DOMAIN>-<NAME>-<MAJOR>.<MINOR>`.
+- `DOMAIN` denotes the standards domain (for example NSE, AASP, DOIP, ISAS).
+- Each identifier must be unique in the standards registry and shall never be reused.
 
----
+## 3. Versioning Rule / 版本规则
 
-## English Version
+### 中文
+- **Major** 版本变更用于语义不兼容更新或治理约束重构。
+- **Minor** 版本变更用于兼容性增强、条款补充、术语澄清。
+- 版本变更必须在 `docs/registry/STANDARDS_REGISTRY.md` 留痕，并更新状态字段（Draft / Release / Experimental）。
 
-### Bilingual Publication Principle
-- All standards and normative documents in this repository must be published in both Chinese and English.
-- Chinese and English versions must be released in the same publication cycle. Single-language releases are not allowed.
+### English
+- **Major** increments are for semantic breaking changes or governance model restructuring.
+- **Minor** increments are for backward-compatible enhancements, clause expansion, and terminology clarification.
+- Every version change must be recorded in `docs/registry/STANDARDS_REGISTRY.md` with updated status (Draft / Release / Experimental).
 
-### Standard Naming Rule
-- Standard names must be displayed in both Chinese and English.
-- Recommended format: `Standard-ID (English Standard Name)`.
+## 4. Release Process / 发布流程
 
-### Mirroring Rule
-- Standard documents under `docs/standards/` and `docs/paper/` must use full CN/EN mirroring.
-- Recommended layout: Chinese section, separator `---`, then English section.
+### 中文
+1. 提案阶段：提交标准草案并申请注册编号。  
+2. 镜像阶段：完成 CN/EN 全量镜像并通过链接可达性检查。  
+3. 审核阶段：完成跨仓库一致性审阅（编号、状态、入口、版本）。  
+4. 发布阶段：合并至 `main`，更新 Registry 与 Roadmap，并记录发布日期。  
 
-### Prohibitions
-- Chinese-only standard publication is prohibited.
-- English summaries cannot replace full English content.
-
-### Translation Requirement
-- The English section must be a full translation and must not omit technical definitions, API fields, procedures, or conclusions.
+### English
+1. Proposal stage: submit a draft standard and request a registry identifier.  
+2. Mirroring stage: complete full CN/EN mirroring and pass link reachability checks.  
+3. Review stage: complete cross-repository consistency review (identifier, status, entrypoint, version).  
+4. Release stage: merge into `main`, update Registry and Roadmap, and record release date.

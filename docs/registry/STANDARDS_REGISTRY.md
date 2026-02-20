@@ -1,6 +1,6 @@
 # Standards Registry / 标准注册表
 
-Updated: 2026-02-19 04:28 UTC
+Updated: 2026-02-20
 
 ## Registry Table / 注册表
 

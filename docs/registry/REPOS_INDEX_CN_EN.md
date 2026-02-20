@@ -1,5 +1,5 @@
 # Repos Index (CN/EN) / 仓库总导航（中英双语）
-Generated at: 2026-02-19T12:10:59
+Generated at: 2026-02-20
 ## Index Table / 索引表
 | Repo | Latest | Time | Note | Link |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ Generated at: 2026-02-19T12:10:59
 - `RR-MCP-LC` MCP-LC / 中国法律与合规映射 — https://github.com/joy7758/MCP-Legal-China/blob/main/docs/onepager/RR-MCP-LC_ONEPAGER_CN_EN.md
 
 ## Latest Commit Anchors / 最新实现锚点
-Updated: 2026-02-19 04:28 UTC
+Updated: 2026-02-20
 
 - `RR-pFDO` pFDO / pFDO（物理FAIR数字对象）: https://github.com/joy7758/pFDO-Specification/commit/3226b4e025e1f4478b374180dd98420c3ec9e17f (docs: add standard domain entry link to hub registry (CN/EN))
 - `RR-AASP` AASP / AASP（自适应属性安全协议）: https://github.com/joy7758/AASP-Core/commit/162c08dc195583adb7f568e356460a5333793922 (docs: add standard domain entry link to hub registry (CN/EN))

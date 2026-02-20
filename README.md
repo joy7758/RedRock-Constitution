@@ -25,6 +25,7 @@ This repository is the hub of the RedRock system: registry + navigation. All pub
 
 ## Quick Links / 快速入口
 
+- Constitution Onepager / 宪章一页纸：`docs/onepager/RR-CORE_ONEPAGER_CN_EN.md`
 - Repos Index / 仓库总导航：`docs/registry/REPOS_INDEX_CN_EN.md`
 - Standards Registry / 标准注册表：`docs/registry/STANDARDS_REGISTRY.md`
 - Roadmap / 路线图：`docs/roadmap/ROADMAP_CN_EN.md`

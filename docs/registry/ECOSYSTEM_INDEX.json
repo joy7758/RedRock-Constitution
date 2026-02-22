@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-02-22T15:09:32+00:00",
+  "generated_at": "2026-02-22T15:14:45+00:00",
   "hub": "RedRock-Constitution",
   "repositories": [
     {
@@ -23,8 +23,8 @@
         "aro-audit",
         "RedRock-Constitution"
       ],
-      "latest_commit": "54c9f46d56def504124af7f2bf3a177baa3b760a",
-      "latest_commit_url": "https://github.com/joy7758/AASP-Core/commit/54c9f46d56def504124af7f2bf3a177baa3b760a"
+      "latest_commit": "f71e7b29d6235d6ccdd964d9c6dae176a8a2251a",
+      "latest_commit_url": "https://github.com/joy7758/AASP-Core/commit/f71e7b29d6235d6ccdd964d9c6dae176a8a2251a"
     },
     {
       "name": "China-Precision-Mold-FDO-Standard",
@@ -45,8 +45,8 @@
         "pFDO-Specification",
         "RedRock-Constitution"
       ],
-      "latest_commit": "61383273eecd0cd4d49876ced025d64873aea184",
-      "latest_commit_url": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard/commit/61383273eecd0cd4d49876ced025d64873aea184"
+      "latest_commit": "6d3d2d44de358ee986816ad84033cf33916edc47",
+      "latest_commit_url": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard/commit/6d3d2d44de358ee986816ad84033cf33916edc47"
     },
     {
       "name": "DOIP-Segments-Specification",
@@ -68,8 +68,8 @@
         "China-Precision-Mold-FDO-Standard",
         "RedRock-Constitution"
       ],
-      "latest_commit": "82b7903ccb997236930e60bf7f6e9fbc1808a279",
-      "latest_commit_url": "https://github.com/joy7758/DOIP-Segments-Specification/commit/82b7903ccb997236930e60bf7f6e9fbc1808a279"
+      "latest_commit": "973cd3d1dc33284cc618c862ea603b62a80d8408",
+      "latest_commit_url": "https://github.com/joy7758/DOIP-Segments-Specification/commit/973cd3d1dc33284cc618c862ea603b62a80d8408"
     },
     {
       "name": "ISAS-Core",
@@ -91,8 +91,8 @@
         "pFDO-Specification",
         "RedRock-Constitution"
       ],
-      "latest_commit": "0232f61505645a452cf438b727ad56ba34c5d6a4",
-      "latest_commit_url": "https://github.com/joy7758/ISAS-Core/commit/0232f61505645a452cf438b727ad56ba34c5d6a4"
+      "latest_commit": "7688dc255611130931e78f9209a261291ea4f058",
+      "latest_commit_url": "https://github.com/joy7758/ISAS-Core/commit/7688dc255611130931e78f9209a261291ea4f058"
     },
     {
       "name": "Kinetic-Robotics-FDO-Sovereignty",
@@ -114,8 +114,8 @@
         "safety-valve-spec",
         "RedRock-Constitution"
       ],
-      "latest_commit": "eef0f7c786de4f1c4d16c44943bf96336e8c19ce",
-      "latest_commit_url": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty/commit/eef0f7c786de4f1c4d16c44943bf96336e8c19ce"
+      "latest_commit": "c5e24e46bd2706e47044311452ca225f69c980ce",
+      "latest_commit_url": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty/commit/c5e24e46bd2706e47044311452ca225f69c980ce"
     },
     {
       "name": "MCP-Legal-China",
@@ -136,8 +136,8 @@
         "safety-valve-spec",
         "RedRock-Constitution"
       ],
-      "latest_commit": "140c7e30a8e9a8c386e1f35a4c190c38a12ad83f",
-      "latest_commit_url": "https://github.com/joy7758/MCP-Legal-China/commit/140c7e30a8e9a8c386e1f35a4c190c38a12ad83f"
+      "latest_commit": "9ca8a5167af37dc01f79d712390581bef27deb21",
+      "latest_commit_url": "https://github.com/joy7758/MCP-Legal-China/commit/9ca8a5167af37dc01f79d712390581bef27deb21"
     },
     {
       "name": "RedRock-Constitution",
@@ -161,8 +161,8 @@
         "aro-audit",
         "safety-valve-spec"
       ],
-      "latest_commit": "af09ea879c109052b5b9c8f75aff98f18d2879e2",
-      "latest_commit_url": "https://github.com/joy7758/RedRock-Constitution/commit/af09ea879c109052b5b9c8f75aff98f18d2879e2"
+      "latest_commit": "1246b3e90320eab0120bcfca1c4b61386b22802f",
+      "latest_commit_url": "https://github.com/joy7758/RedRock-Constitution/commit/1246b3e90320eab0120bcfca1c4b61386b22802f"
     },
     {
       "name": "aro-audit",
@@ -184,8 +184,8 @@
         "safety-valve-spec",
         "RedRock-Constitution"
       ],
-      "latest_commit": "084f78416f8596e42ba8c59bc7109f4137c7463a",
-      "latest_commit_url": "https://github.com/joy7758/aro-audit/commit/084f78416f8596e42ba8c59bc7109f4137c7463a"
+      "latest_commit": "607bd9e19aaec31ac72f37bf6badc9622c959860",
+      "latest_commit_url": "https://github.com/joy7758/aro-audit/commit/607bd9e19aaec31ac72f37bf6badc9622c959860"
     },
     {
       "name": "pFDO-Specification",
@@ -209,8 +209,8 @@
         "safety-valve-spec",
         "RedRock-Constitution"
       ],
-      "latest_commit": "15f7c4c81694594192e8880540513f682386544d",
-      "latest_commit_url": "https://github.com/joy7758/pFDO-Specification/commit/15f7c4c81694594192e8880540513f682386544d"
+      "latest_commit": "33803889bf48d33a7c9c7eb68e7ddd661af82a18",
+      "latest_commit_url": "https://github.com/joy7758/pFDO-Specification/commit/33803889bf48d33a7c9c7eb68e7ddd661af82a18"
     },
     {
       "name": "safety-valve-spec",
@@ -232,8 +232,8 @@
         "MCP-Legal-China",
         "RedRock-Constitution"
       ],
-      "latest_commit": "620c4332fc6c2121e096263a96c4c66d0d1c09fc",
-      "latest_commit_url": "https://github.com/joy7758/safety-valve-spec/commit/620c4332fc6c2121e096263a96c4c66d0d1c09fc"
+      "latest_commit": "0313cd2340bc07f81467854c8eeb7b1b86969b78",
+      "latest_commit_url": "https://github.com/joy7758/safety-valve-spec/commit/0313cd2340bc07f81467854c8eeb7b1b86969b78"
     }
   ]
 }

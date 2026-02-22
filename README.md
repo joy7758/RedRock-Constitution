@@ -5,6 +5,7 @@
 
 - Standard ID / 标准编号: `RR-CORE`
 - Repository / 仓库名: `RedRock-Constitution`
+- A/B Recommended Variant / 推荐版本: `A`
 
 ### EN Summary / 英文摘要
 Governance hub, standards registry, and ecosystem navigation for the RedRock repositories.
@@ -24,6 +25,11 @@ Governance hub, standards registry, and ecosystem navigation for the RedRock rep
 - RedRock-Constitution RR-CORE 标准 规范
 - RedRock-Constitution redrock-constitution standards-registry 仓库
 - RR-CORE 参考实现 红岩 宪章
+
+### A/B Hero Variants / 首屏 A/B 版本
+- Variant A (Citation-First) / 引用优先: [`docs/readme-ab/README_HERO_A_CN_EN.md`](docs/readme-ab/README_HERO_A_CN_EN.md)
+- Variant B (Adoption-First) / 落地优先: [`docs/readme-ab/README_HERO_B_CN_EN.md`](docs/readme-ab/README_HERO_B_CN_EN.md)
+- Experiment Window / 观测窗口: 14 days
 
 ### Quick Links / 快速入口
 - Governance Hub / 总入口: https://github.com/joy7758/RedRock-Constitution
@@ -68,6 +74,7 @@ This repository is the hub of the RedRock system: registry + navigation. All pub
 - Standards Registry / 标准注册表：`docs/registry/STANDARDS_REGISTRY.md`
 - Roadmap / 路线图：`docs/roadmap/ROADMAP_CN_EN.md`
 - Governance / 治理公约：`GOVERNANCE.md`
+- README A/B Plan / README 首屏 A/B 方案：`docs/registry/README_AB_TEST_PLAN_CN_EN.md`
 
 <!-- ECOSYSTEM_LINKS_BEGIN -->
 ## Ecosystem Links / 生态关系链接

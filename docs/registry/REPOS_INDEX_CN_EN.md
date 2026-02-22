@@ -1,24 +1,25 @@
 # Repos Index (CN/EN) / 仓库总导航（中英双语）
-Generated at: 2026-02-22T15:09:32+00:00
+Generated at: 2026-02-22T15:14:45+00:00
 
 ## Index Table / 索引表
 | Repo | Standard ID | Latest | Time | Note | Link |
 |---|---|---|---|---|---|
-| `AASP-Core` | `RR-AASP` | `54c9f46` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/AASP-Core |
-| `China-Precision-Mold-FDO-Standard` | `RR-CPM` | `6138327` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/China-Precision-Mold-FDO-Standard |
-| `DOIP-Segments-Specification` | `RR-DOIP` | `82b7903` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/DOIP-Segments-Specification |
-| `ISAS-Core` | `RR-ISAS` | `0232f61` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/ISAS-Core |
-| `Kinetic-Robotics-FDO-Sovereignty` | `RR-KRFS` | `eef0f7c` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty |
-| `MCP-Legal-China` | `RR-MCP-LC` | `140c7e3` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/MCP-Legal-China |
-| `aro-audit` | `RR-ARO` | `084f784` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/aro-audit |
-| `pFDO-Specification` | `RR-pFDO` | `15f7c4c` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/pFDO-Specification |
-| `safety-valve-spec` | `RR-SVS` | `620c433` | `2026-02-22 23:08:32 +0800` | docs: standardize README search visibility snapshot | https://github.com/joy7758/safety-valve-spec |
+| `AASP-Core` | `RR-AASP` | `f71e7b2` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/AASP-Core |
+| `China-Precision-Mold-FDO-Standard` | `RR-CPM` | `6d3d2d4` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/China-Precision-Mold-FDO-Standard |
+| `DOIP-Segments-Specification` | `RR-DOIP` | `973cd3d` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/DOIP-Segments-Specification |
+| `ISAS-Core` | `RR-ISAS` | `7688dc2` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/ISAS-Core |
+| `Kinetic-Robotics-FDO-Sovereignty` | `RR-KRFS` | `c5e24e4` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty |
+| `MCP-Legal-China` | `RR-MCP-LC` | `9ca8a51` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/MCP-Legal-China |
+| `aro-audit` | `RR-ARO` | `607bd9e` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/aro-audit |
+| `pFDO-Specification` | `RR-pFDO` | `3380388` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/pFDO-Specification |
+| `safety-valve-spec` | `RR-SVS` | `0313cd2` | `2026-02-22 23:13:50 +0800` | docs: add README hero A/B variants with test metadata | https://github.com/joy7758/safety-valve-spec |
 
 ## Governance Hub / 治理总入口
 - Hub: https://github.com/joy7758/RedRock-Constitution
 - Standards Registry: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md
 - Ecosystem Graph: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md
 - Ecosystem JSON Index: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_INDEX.json
+- README A/B Plan: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/README_AB_TEST_PLAN_CN_EN.md
 
 ## Onepager Links / 一页纸入口
 - `RR-CORE` Constitution / 宪章 — https://github.com/joy7758/RedRock-Constitution/blob/main/docs/onepager/RR-CORE_ONEPAGER_CN_EN.md

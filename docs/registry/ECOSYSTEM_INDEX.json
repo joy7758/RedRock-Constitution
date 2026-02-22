@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-02-22T15:03:43+00:00",
+  "hub": "RedRock-Constitution",
+  "repositories": [
+    {
+      "name": "AASP-Core",
+      "standard_id": "RR-AASP",
+      "status": "Draft",
+      "url": "https://github.com/joy7758/AASP-Core",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-aasp",
+      "onepager": "https://github.com/joy7758/AASP-Core/blob/main/docs/onepager/RR-AASP_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "aasp",
+        "fair-digital-object",
+        "llm-governance",
+        "digital-metabolism",
+        "iit"
+      ],
+      "related": [
+        "ISAS-Core",
+        "pFDO-Specification",
+        "aro-audit",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "1d7f3086062ee5dc8da51bfd660633ec241d637b",
+      "latest_commit_url": "https://github.com/joy7758/AASP-Core/commit/1d7f3086062ee5dc8da51bfd660633ec241d637b"
+    },
+    {
+      "name": "China-Precision-Mold-FDO-Standard",
+      "standard_id": "RR-CPM",
+      "status": "Draft",
+      "url": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-cpm",
+      "onepager": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard/blob/main/docs/onepager/RR-CPM_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "precision-mold",
+        "fdo",
+        "doip",
+        "industrial-data",
+        "interoperability"
+      ],
+      "related": [
+        "DOIP-Segments-Specification",
+        "pFDO-Specification",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "a3bd394dd9535419140cdcb806907a91b3e27829",
+      "latest_commit_url": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard/commit/a3bd394dd9535419140cdcb806907a91b3e27829"
+    },
+    {
+      "name": "DOIP-Segments-Specification",
+      "standard_id": "RR-DOIP",
+      "status": "Draft",
+      "url": "https://github.com/joy7758/DOIP-Segments-Specification",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-doip",
+      "onepager": "https://github.com/joy7758/DOIP-Segments-Specification/blob/main/docs/onepager/RR-DOIP_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "doip",
+        "pid",
+        "interoperability",
+        "schema",
+        "fair-digital-object"
+      ],
+      "related": [
+        "pFDO-Specification",
+        "AASP-Core",
+        "China-Precision-Mold-FDO-Standard",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "68f28426d1ffb8ffaa6fcb77930888549c0db483",
+      "latest_commit_url": "https://github.com/joy7758/DOIP-Segments-Specification/commit/68f28426d1ffb8ffaa6fcb77930888549c0db483"
+    },
+    {
+      "name": "ISAS-Core",
+      "standard_id": "RR-ISAS",
+      "status": "Draft",
+      "url": "https://github.com/joy7758/ISAS-Core",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-isas",
+      "onepager": "https://github.com/joy7758/ISAS-Core/blob/main/docs/onepager/RR-ISAS_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "industrial-autonomy",
+        "did",
+        "ipfs",
+        "sovereignty",
+        "fdo"
+      ],
+      "related": [
+        "AASP-Core",
+        "Kinetic-Robotics-FDO-Sovereignty",
+        "pFDO-Specification",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "bc2c064b80aaaa037657cc5f7773f8e870f5d5cf",
+      "latest_commit_url": "https://github.com/joy7758/ISAS-Core/commit/bc2c064b80aaaa037657cc5f7773f8e870f5d5cf"
+    },
+    {
+      "name": "Kinetic-Robotics-FDO-Sovereignty",
+      "standard_id": "RR-KRFS",
+      "status": "Draft",
+      "url": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-krfs",
+      "onepager": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty/blob/main/docs/onepager/RR-KRFS_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "robotics",
+        "kinetic-fdo",
+        "sovereignty",
+        "industrial-ai",
+        "compliance"
+      ],
+      "related": [
+        "ISAS-Core",
+        "pFDO-Specification",
+        "safety-valve-spec",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "46b5354575cc3f349e794417253b782691589145",
+      "latest_commit_url": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty/commit/46b5354575cc3f349e794417253b782691589145"
+    },
+    {
+      "name": "MCP-Legal-China",
+      "standard_id": "RR-MCP-LC",
+      "status": "Draft",
+      "url": "https://github.com/joy7758/MCP-Legal-China",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-mcp-lc",
+      "onepager": "https://github.com/joy7758/MCP-Legal-China/blob/main/docs/onepager/RR-MCP-LC_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "mcp",
+        "legal-tech",
+        "china-law",
+        "compliance",
+        "agent-tooling"
+      ],
+      "related": [
+        "AASP-Core",
+        "safety-valve-spec",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "c63cb42c23a9debbd68c6d4a2cb79ad1f47e8770",
+      "latest_commit_url": "https://github.com/joy7758/MCP-Legal-China/commit/c63cb42c23a9debbd68c6d4a2cb79ad1f47e8770"
+    },
+    {
+      "name": "RedRock-Constitution",
+      "standard_id": "RR-CORE",
+      "status": "Hub",
+      "url": "https://github.com/joy7758/RedRock-Constitution",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-core",
+      "onepager": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/onepager/RR-CORE_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "redrock-constitution",
+        "standards-registry",
+        "governance",
+        "bilingual-docs",
+        "ecosystem-map"
+      ],
+      "related": [
+        "AASP-Core",
+        "ISAS-Core",
+        "DOIP-Segments-Specification",
+        "pFDO-Specification",
+        "aro-audit",
+        "safety-valve-spec"
+      ],
+      "latest_commit": "c1b6d80318f8cb85050037591c3c4cb6c98c7cb1",
+      "latest_commit_url": "https://github.com/joy7758/RedRock-Constitution/commit/c1b6d80318f8cb85050037591c3c4cb6c98c7cb1"
+    },
+    {
+      "name": "aro-audit",
+      "standard_id": "RR-ARO",
+      "status": "Incubation",
+      "url": "https://github.com/joy7758/aro-audit",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-aro",
+      "onepager": "-",
+      "keywords": [
+        "audit-receipt",
+        "ai-governance",
+        "evidence-layer",
+        "merkle",
+        "verification"
+      ],
+      "related": [
+        "AASP-Core",
+        "pFDO-Specification",
+        "safety-valve-spec",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "fbc80591d5e8bc60eaf1d3f07b1e4bf842c859d6",
+      "latest_commit_url": "https://github.com/joy7758/aro-audit/commit/fbc80591d5e8bc60eaf1d3f07b1e4bf842c859d6"
+    },
+    {
+      "name": "pFDO-Specification",
+      "standard_id": "RR-pFDO",
+      "status": "Draft",
+      "url": "https://github.com/joy7758/pFDO-Specification",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-pfdo",
+      "onepager": "https://github.com/joy7758/pFDO-Specification/blob/main/docs/onepager/RR-pFDO_ONEPAGER_CN_EN.md",
+      "keywords": [
+        "pfdo",
+        "fair-digital-object",
+        "physical-layer",
+        "compliance",
+        "doip"
+      ],
+      "related": [
+        "DOIP-Segments-Specification",
+        "AASP-Core",
+        "ISAS-Core",
+        "aro-audit",
+        "safety-valve-spec",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "7d1631a3b685087b57e8ec794aa5ee3fb7c79ca3",
+      "latest_commit_url": "https://github.com/joy7758/pFDO-Specification/commit/7d1631a3b685087b57e8ec794aa5ee3fb7c79ca3"
+    },
+    {
+      "name": "safety-valve-spec",
+      "standard_id": "RR-SVS",
+      "status": "Incubation",
+      "url": "https://github.com/joy7758/safety-valve-spec",
+      "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-svs",
+      "onepager": "-",
+      "keywords": [
+        "safety-valve",
+        "agent-safety",
+        "conformance",
+        "receipt",
+        "policy-gate"
+      ],
+      "related": [
+        "aro-audit",
+        "pFDO-Specification",
+        "MCP-Legal-China",
+        "RedRock-Constitution"
+      ],
+      "latest_commit": "e2d298c4add5698b28f60ad7e1cacfb9afeacdb4",
+      "latest_commit_url": "https://github.com/joy7758/safety-valve-spec/commit/e2d298c4add5698b28f60ad7e1cacfb9afeacdb4"
+    }
+  ]
+}

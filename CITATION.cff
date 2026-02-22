@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "RedRock-Constitution"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Bin"
+repository-code: "https://github.com/joy7758/RedRock-Constitution"
+url: "https://github.com/joy7758/RedRock-Constitution"
+abstract: "Governance hub, standards registry, and ecosystem navigation for the RedRock repositories."
+keywords:
+  - redrock-constitution
+  - standards-registry
+  - governance
+  - bilingual-docs
+  - ecosystem-map

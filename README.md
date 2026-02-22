@@ -1,5 +1,41 @@
 # RedRock Constitution / 红岩总宪章仓库
 
+<!-- SEARCH_VISIBILITY_BEGIN -->
+## Discoverability Snapshot / 检索曝光摘要
+
+- Standard ID / 标准编号: `RR-CORE`
+- Repository / 仓库名: `RedRock-Constitution`
+
+### EN Summary / 英文摘要
+Governance hub, standards registry, and ecosystem navigation for the RedRock repositories.
+
+### CN Summary / 中文摘要
+红岩仓库群的治理总入口、标准注册表与生态导航中心。
+
+### SEO Keywords / 检索关键词
+`redrock-constitution`, `standards-registry`, `governance`, `bilingual-docs`, `ecosystem-map`
+
+### Suggested Search Phrases (EN)
+- RedRock-Constitution RR-CORE open standard
+- RedRock-Constitution redrock-constitution standards-registry github
+- RR-CORE redrock-constitution reference implementation
+
+### 建议检索短语（中文）
+- RedRock-Constitution RR-CORE 标准 规范
+- RedRock-Constitution redrock-constitution standards-registry 仓库
+- RR-CORE 参考实现 红岩 宪章
+
+### Quick Links / 快速入口
+- Governance Hub / 总入口: https://github.com/joy7758/RedRock-Constitution
+- Standards Registry / 标准注册表: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-core
+- Repos Index / 仓库索引: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/REPOS_INDEX_CN_EN.md
+- Ecosystem Graph / 生态关系图: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md
+- Onepager / 一页纸: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/onepager/RR-CORE_ONEPAGER_CN_EN.md
+- Citation / 引用元数据: `CITATION.cff`
+- Security Policy / 安全策略: `SECURITY.md`
+- Machine-readable / 机器可读: `machine-readable/repository.json`
+<!-- SEARCH_VISIBILITY_END -->
+
 ## Bilingual Governance Notice / 双语治理声明
 本仓库作为红岩体系的“总入口与标准注册表”。所有对外材料默认双语（中文优先，英文紧随）。  
 This repository is the hub of the RedRock system: registry + navigation. All public-facing docs are bilingual (CN first, EN follows).

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-02-22T14:59:54Z",
+  "generated_at": "2026-02-22T15:08:15+00:00",
   "repository": "RedRock-Constitution",
   "standard_id": "RR-CORE",
   "status": "Hub",
@@ -54,5 +54,23 @@
       "url": "https://github.com/joy7758/safety-valve-spec",
       "standard_id": "RR-SVS"
     }
-  ]
+  ],
+  "discoverability": {
+    "version": "1.0.0",
+    "readme_section": "Discoverability Snapshot / 检索曝光摘要",
+    "keywords_density_target": "5-10 high-signal keywords in top README section",
+    "search_phrases_en": [
+      "RedRock-Constitution RR-CORE open standard",
+      "RedRock-Constitution redrock-constitution standards-registry github",
+      "RR-CORE redrock-constitution reference implementation"
+    ],
+    "search_phrases_cn": [
+      "RedRock-Constitution RR-CORE 标准 规范",
+      "RedRock-Constitution redrock-constitution standards-registry 仓库",
+      "RR-CORE 参考实现 红岩 宪章"
+    ],
+    "onepager": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/onepager/RR-CORE_ONEPAGER_CN_EN.md",
+    "citation_file": "CITATION.cff",
+    "security_file": "SECURITY.md"
+  }
 }
